@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    gap: 10px;
+  }
+  .link {
+    text-decoration: none;
+    color: #333;
+  }
+  
